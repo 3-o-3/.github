@@ -4,4 +4,4 @@ cod5.com
 [Public Domain](https://nocopyright.cod5.com) Computer
 with binary and ternary arithmetic and logic unit for safe communications.
 
-We aims to build a software and hardware ecosystem for a sustainable computer experience.
+We aim to build a software and hardware ecosystem for a sustainable computer experience.
