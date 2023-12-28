@@ -2,6 +2,6 @@ cod5.com
 ========
 
 [Public Domain](https://nocopyright.cod5.com) Computer
-with binary and ternary arithmetic and logic unit.
+with binary and ternary arithmetic and logic unit for safe communications.
 
-Our goal : build a software and hardware ecosystem for a sustainable computer experience.
+We aims to build a software and hardware ecosystem for a sustainable computer experience.
