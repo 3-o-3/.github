@@ -1,5 +1,5 @@
-cod5.com
-========
+3o3.org
+=======
 
 [Public Domain](https://3o3.org/nocopyright.html) Computer
 with binary and ternary arithmetic and logic unit for safe communications.
